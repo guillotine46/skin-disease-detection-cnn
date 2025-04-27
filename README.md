@@ -91,6 +91,3 @@ This system provides quicker results than prevailing systems, significantly redu
 - Farhana Sabreen M
 
 **Institution**: Meenakshi Sundararajan Engineering College, Chennai, India
-
-## License
-[Specify your preferred license for the project]
