@@ -1,5 +1,3 @@
-# skin-disease-detection-cnn
-
 # Skin Disease Detection using Convolutional Neural Networks
 
 ## Overview
